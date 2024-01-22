@@ -345,7 +345,7 @@ footer{
         animation: slide  1s linear  1;
         scroll-behavior: smooth;
         scroll-snap-type: x mandatory;
-        /* background: url(img/banner-bg.jpg); */
+        background: url(img/banner-bg.jpg);
        
     }
     .content{
