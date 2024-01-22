@@ -15,6 +15,23 @@
     padding: 20px 80px;
     background-color: white;
     
+    
+}
+@keyframes slide {
+    from{
+        margin-left: 1000px;
+    }
+    
+}
+nav{
+    animation: down 1s linear  1  ;
+
+}
+@keyframes down {
+    from{
+        transform: translateY(-300px);
+    }
+    
 }
 .l {
     display: flex;
